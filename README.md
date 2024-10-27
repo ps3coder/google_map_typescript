@@ -1,4 +1,3 @@
-# Dynamic Mapping Application
 
 ## Overview
 The Dynamic Mapping Application is a modern web application built using TypeScript, Parcel, and the Google Maps JavaScript API. This app integrates user-generated data with real-time mapping capabilities, providing an interactive experience for displaying locations, users, or businesses on a map.
@@ -40,3 +39,12 @@ The Dynamic Mapping Application is a modern web application built using TypeScri
 
 ## Conclusion
 The Dynamic Mapping Application showcases a powerful combination of mapping technology and dynamic data generation, making it a versatile tool for developers and users alike. Whether for visualizing user locations or testing mapping functionalities, this app provides a rich and engaging user experience.
+
+
+
+## Source 
+
+![Udemy TS Project by Stiphen Grider](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202024-10-27%20163813.png](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/15066632?start=0#overview)
+
+![Google Map API](https://mapsplatform.google.com/maps-products/navigation-sdk/?utm_source=google&utm_medium=cpc&utm_campaign=google_maps_navsdk_brand_india_1&gad_source=1&gclid=CjwKCAjwyfe4BhAWEiwAkIL8sLjB2hIw6qRBCBDF2TQwl36YUC7D6gyFGaxdT9dUZ2aenYHr2--j7hoCwHMQAvD_BwE&gclsrc=aw.ds)
+
