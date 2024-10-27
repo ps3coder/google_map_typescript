@@ -43,8 +43,7 @@ The Dynamic Mapping Application showcases a powerful combination of mapping tech
 
 
 ## Source 
+![Screenshot 1](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
+![Screenshot 1](https://mapsplatform.google.com/?_gl=1*m386ur*_up*MQ..&gclid=CjwKCAjwyfe4BhAWEiwAkIL8sLjB2hIw6qRBCBDF2TQwl36YUC7D6gyFGaxdT9dUZ2aenYHr2--j7hoCwHMQAvD_BwE&gclsrc=aw.ds)
 
-![Udemy TS Project by Stiphen Grider](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202024-10-27%20163813.png](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/15066632?start=0#overview)
-
-![Google Map API](https://mapsplatform.google.com/maps-products/navigation-sdk/?utm_source=google&utm_medium=cpc&utm_campaign=google_maps_navsdk_brand_india_1&gad_source=1&gclid=CjwKCAjwyfe4BhAWEiwAkIL8sLjB2hIw6qRBCBDF2TQwl36YUC7D6gyFGaxdT9dUZ2aenYHr2--j7hoCwHMQAvD_BwE&gclsrc=aw.ds)
 
