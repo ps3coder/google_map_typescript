@@ -33,9 +33,9 @@ The Dynamic Mapping Application is a modern web application built using TypeScri
 - **Faker**: To generate fake data for testing and development purposes.
 
 ## Screenshots
-Add screenshots of your application here to showcase its features and functionality.
 
 ![Screenshot 1](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202024-10-27%20163813.png)
+
 ![Screenshot 2](https://github.com/ps3coder/Project_images_url/blob/main/Screenshot%202024-10-27%20163820.png)
 
 ## Conclusion
