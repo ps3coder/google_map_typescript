@@ -43,7 +43,7 @@ The Dynamic Mapping Application showcases a powerful combination of mapping tech
 
 
 ## Source 
-![Screenshot 1](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
-![Screenshot 1](https://mapsplatform.google.com/?_gl=1*m386ur*_up*MQ..&gclid=CjwKCAjwyfe4BhAWEiwAkIL8sLjB2hIw6qRBCBDF2TQwl36YUC7D6gyFGaxdT9dUZ2aenYHr2--j7hoCwHMQAvD_BwE&gclsrc=aw.ds)
+![TS by Stiphin Grider](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
+![Google Map Docs](https://mapsplatform.google.com/?_gl=1*m386ur*_up*MQ..&gclid=CjwKCAjwyfe4BhAWEiwAkIL8sLjB2hIw6qRBCBDF2TQwl36YUC7D6gyFGaxdT9dUZ2aenYHr2--j7hoCwHMQAvD_BwE&gclsrc=aw.ds)
 
 
